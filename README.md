@@ -1,0 +1,2 @@
+# SampleGitHubRep
+creating sample repository
